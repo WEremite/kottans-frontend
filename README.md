@@ -11,7 +11,7 @@ The course from Udacity was very useful and interesting for me.
   
 </details>
 
-## Linux CLI, and HTTP
+## 1. Linux CLI, and HTTP
 ### 1.1 Linux Survival (4 modules)
 
 First two modules was easy, 'cause I worked on Linux a little before.
