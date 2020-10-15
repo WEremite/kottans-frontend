@@ -18,14 +18,14 @@ First two modules was easy, 'cause I worked on Linux a little before.
 <details>
     <summary>Screenshot</summary>
   
-![Linux Susvival Quiz 1](https://github.com/WEremite/kottans-frontend/blob/main/Images/Linux_survival/quiz_1.png)
+![Linux Susvival Quiz 1](https://github.com/WEremite/kottans-frontend/blob/main/task_linux_cli/quiz_1.png)
 
 </details>
   
 <details>
   <summary>Screenshot</summary>
   
-![Linux Susvival Quiz 2](https://github.com/WEremite/kottans-frontend/blob/main/Images/Linux_survival/quiz_2.png)
+![Linux Susvival Quiz 2](https://github.com/WEremite/kottans-frontend/blob/main/task_linux_cli/quiz_2.png)
 
 </details>
 
@@ -33,14 +33,14 @@ The next two modules was not so easy, actually. But I did it!
 <details>
     <summary>Screenshot</summary>
   
-![Linux Susvival Quiz 3](https://github.com/WEremite/kottans-frontend/blob/main/Images/Linux_survival/quiz_3.png)
+![Linux Susvival Quiz 3](https://github.com/WEremite/kottans-frontend/blob/main/task_linux_cli/quiz_3.png)
 
 </details>
   
 <details>
   <summary>Screenshot</summary>
   
-![Linux Susvival Quiz 4](https://github.com/WEremite/kottans-frontend/blob/main/Images/Linux_survival/quiz_4.png)
+![Linux Susvival Quiz 4](https://github.com/WEremite/kottans-frontend/blob/main/task_linux_cli/quiz_4.png)
 
 </details>
 
