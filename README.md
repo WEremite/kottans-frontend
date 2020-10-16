@@ -76,3 +76,11 @@ HTTP -> __SSL (Secure Sockets Layer) or TLS (Transport Layer Security)__ -> TCP 
 
 
 Summary it was interesting and useful indormation, but I think I will forget about 80% of this after a week.
+
+<details>
+    <summary>Facepalm</summary>
+  
+![Bunny Facepalm](https://github.com/WEremite/kottans-frontend/blob/main/Images/Bunny-Facepalm.png)
+
+</details>
+
