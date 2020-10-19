@@ -141,6 +141,6 @@ upstream -> for original repository (from what we make a fork)
 
 * __git pull origin foo = git fetch origin foo; git merge o/foo__
 
-* __git pull origin bar~1:bugFix = git fetch origin bar~1:bugFix; git merge bugFix__
+* __git pull origin bar\~1:bugFix = git fetch origin bar\~1:bugFix; git merge bugFix__
 
 This two courses, especial second one give me a better understanding how to work with git and GitHub. 
