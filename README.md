@@ -79,3 +79,68 @@ Summary it was interesting and useful indormation, but I think I will forget abo
   
 ![Bunny Facepalm](images/Bunny-Facepalm.png)
 
+## 2. Git Collaboration
+
+### 2.1 GitHub & Collaboration
+
+<details>
+    <summary>Screenshot</summary>
+  
+![GitHub and Collaboration](task_git_collaboration/github_and_collaboration.png)
+
+</details>
+
+### 2.2 Learn Git Branching
+
+<details>
+    <summary>Main</summary>
+  
+![GitHub and Collaboration](task_git_collaboration/main.png)
+
+</details>
+
+<details>
+    <summary>Remote</summary>
+  
+![GitHub and Collaboration](task_git_collaboration/remote.png)
+
+</details>
+
+<details>
+    <summary>Finish</summary>
+  
+![GitHub and Collaboration](task_git_collaboration/finish.png)
+
+</details>
+
+__Useful git commands:__
+
+* __git shortlog__ - show autors and quantity of their commits
+
+ >git shortlog displays an alphabetical list of names and the commit messages that go along with them. If we just want to see just the number of commits that each developer has made, we can add a couple of flags: __-s__ to show just the number of commits (rather than each commit's message) and __-n__ to sort them numerically (rather than alphabetically by author name).
+
+ * __git shortlog -s -n__
+
+
+* __git log --author="Author Name"__ - filter by author
+
+>How about we filter down to just the commits that reference the word "bug". We can do that with either of the following commands:
+
+ * __git log --grep=bug__ <br>
+ or
+ * __git log --grep bug__
+
+>origin -> for fork repository <br>
+upstream -> for original repository (from what we make a fork)
+
+* __git push origin master:newBranch__ - take data from master on local repository and add it on origin (ex. GitHub) to newBranch (if it doesn't exist, git makes it)
+
+* __git push origin :foo__ - without first argument before ":" git just delete foo branch
+
+* __git fetch origin :foo__ - git will make  new branch "foo" in local repository
+
+* __git pull origin foo = git fetch origin foo; git merge o/foo__
+
+* __git pull origin bar~1:bugFix = git fetch origin bar~1:bugFix; git merge bugFix__
+
+This two courses, especial second one give me a better understanding how to work with git and GitHub. 
