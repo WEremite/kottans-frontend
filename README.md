@@ -144,3 +144,38 @@ upstream -> for original repository (from what we make a fork)
 * __git pull origin bar\~1:bugFix = git fetch origin bar\~1:bugFix; git merge bugFix__
 
 This two courses, especial second one give me a better understanding how to work with git and GitHub. 
+
+## 3. Intro to HTML and CSS
+
+### 3.1 Intro to HTML & CSS (Eng)
+
+<details>
+    <summary>Screenshot</summary>
+  
+![GitHub and Collaboration](task_html_css_intro/udacity-html-css.png)
+
+</details>
+
+### 3.2 Learn HTML(Eng)
+
+<details>
+    <summary>Screenshots</summary>
+  
+![GitHub and Collaboration](task_html_css_intro/codeacademy-html-1.png)
+
+![GitHub and Collaboration](task_html_css_intro/codeacademy-html-2.png)
+
+</details>
+
+### 3.3 Learn CSS(Eng)
+
+<details>
+    <summary>Screenshots</summary>
+  
+![GitHub and Collaboration](task_html_css_intro/codeacademy-css-1.png)
+
+![GitHub and Collaboration](task_html_css_intro/codeacademy-css-2.png)
+
+</details>
+<br>
+Udacity html course was superficial and not consistency. But courses from codeacademy was interesting and more useful. I refreshed knowledge about forms and how to use audio and video tags in HTML and learned a lot about grid in CSS.
