@@ -179,3 +179,25 @@ This two courses, especial second one give me a better understanding how to work
 </details>
 <br>
 Udacity html course was superficial and not consistency. But courses from codeacademy was interesting and more useful. I refreshed knowledge about forms and how to use audio and video tags in HTML and learned a lot about grid in CSS.
+
+## 4. Responsive Web Design
+
+### 4.1 Responsive Web Design Fundamentals
+
+<details>
+    <summary>Screenshot</summary>
+  
+![Responsive Web Design Fundamentals](task_responsive_web_design/udacity-responsive.png)
+
+</details>
+
+### 4.2 Flexbox Froggy
+
+<details>
+    <summary>Screenshot</summary>
+  
+![Responsive Web Design Fundamentals](task_responsive_web_design/flex-box-froggy.png)
+
+</details>
+<br>
+It was cool, especially frog flexbox and last task. But there is no frog who can beat a panda!
