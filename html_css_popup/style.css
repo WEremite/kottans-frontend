@@ -1,5 +1,5 @@
 body {
-  background-image: url(/icons/unicorn-main.svg);
+  background-image: url(https://raw.githubusercontent.com/WEremite/html-css-popup/308fb72a699779f60528cfa6fed26cdefcb59d0e/icons/unicorn-main.svg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -27,6 +27,7 @@ p {
   text-align: center;
   display: block;
   position: relative;
+  padding: 10px 0px;
 }
 #show,#content {
   opacity: 0;
@@ -35,12 +36,21 @@ p {
   opacity: 1;
   overflow-x: hidden;
   height: 300px;
+  margin: 10px 0px;
+  padding: 15px 20px;
 }
 #show2, #content2 {
-  display: none;
+  opacity: 0;
+  position: absolute;       
 }
 #show2:checked~#content2 {
+  opacity: 1;
+  position: relative;
   display: flex;
+  border-top: 1px solid #c5c5c547
+ }
+#show2:checked~.second-show-label {
+  display: none;
 }
 .menu {
   position: relative;
@@ -56,6 +66,7 @@ p {
 .popup-button {
   position: relative;
   bottom: -6px;
+  cursor: pointer;
 }
 .popup {
   overflow-y: auto;
@@ -71,18 +82,27 @@ p {
   border-image-slice: 1;
   background-color: #fff;
 }
-.icons-item:hover, .more-icons-item:hover {
-  border: 1px solid gray;
-  border-radius: 10px;
+.icons-item {
+  display: flex;
+  align-items: center;
 }
-.first-menu-item:focus, .icons-item:focus, .more-icons-item:focus {
-  background-color: gray;
+li.icons-item:hover {
+  outline: 1px solid grey;
 }
-.icons-item-img, .more-icons-item-img {
+.show:focus + .show-label {
+  outline: 1px solid grey;
+}
+.second-show:focus + .second-show-label {
+  outline: 1px solid grey;
+}
+.first-menu-item:focus, .icons-item:focus {
+  background-color: grey;
+}
+.icons-item-img {
   width: 60px;
-  margin: 15px 10px 0px 10px;
+  margin: 15px 10px 0px 15px;
 }
-.second-label {
+.second-show-label {
   width: 250px;
 }
 .more-icons-menu {
