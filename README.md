@@ -201,3 +201,10 @@ Udacity html course was superficial and not consistency. But courses from codeac
 </details>
 <br>
 It was cool, especially frog flexbox and last task. But there is no frog who can beat a panda!
+
+### 5. HTML & CSS practice: Hooli-style Popup
+
+[Demo](https://weremite.github.io/html-css-popup/) | [Code base](https://github.com/WEremite/kottans-frontend/tree/main/task_html_css_popup)
+
+![Unicorn Cat](images/unicorn-cat.jpg)
+
