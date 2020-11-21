@@ -208,3 +208,40 @@ It was cool, especially frog flexbox and last task. But there is no frog who can
 
 ![Unicorn Cat](images/unicorn-cat.jpg)
 
+## 6. JavaScript Basics
+
+### 6.1 Intro to JS
+
+<details>
+    <summary>Screenshot</summary>
+  
+![Udacity Intro to Js](task_js_basics/js-udacity.png)
+
+</details>
+
+### 6.2 Basic JavaScript
+
+<details>
+    <summary>Screenshot</summary>
+  
+![Basic JS](task_js_basics/basic-js-freecodecamp.png)
+
+</details>
+
+### 6.3 ES6 Challenges
+
+<details>
+    <summary>Screenshot</summary>
+  
+![ES6](task_js_basics/es6-freecodecamp.png)
+
+</details>
+
+### 6.4 Basic Data Structures
+
+<details>
+    <summary>Screenshot</summary>
+  
+![Basic Data Structure](task_js_basics/basic-data-structure-freecodecamp.png)
+
+</details>
