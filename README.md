@@ -245,3 +245,12 @@ It was cool, especially frog flexbox and last task. But there is no frog who can
 ![Basic Data Structure](task_js_basics/basic-data-structure-freecodecamp.png)
 
 </details>
+
+### 6.5 Basic Algorithm Scripting 
+
+<details>
+    <summary>Screenshot</summary>
+  
+![Basic Algorithm Scripting](task_js_basics/basic-algorithm-scripting-freecodecamp.png)
+
+</details>
