@@ -254,3 +254,12 @@ It was cool, especially frog flexbox and last task. But there is no frog who can
 ![Basic Algorithm Scripting](task_js_basics/basic-algorithm-scripting-freecodecamp.png)
 
 </details>
+
+### 6.6 Functional Programming
+
+<details>
+    <summary>Screenshot</summary>
+  
+![Functional Programming](task_js_basics/functional-programming-freecodecamp.png)
+
+</details>
