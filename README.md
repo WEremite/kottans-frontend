@@ -263,3 +263,15 @@ It was cool, especially frog flexbox and last task. But there is no frog who can
 ![Functional Programming](task_js_basics/functional-programming-freecodecamp.png)
 
 </details>
+
+### 6.7 Intermediate Algorithm Scripting
+
+<details>
+    <summary>Screenshot</summary>
+  
+![Intermediate Algorithm Scripting](task_js_basics/intermediate-algorithm-scripting-freecodecamp.png)
+
+</details>
+
+![Tired Cat](images/tired-cat.png)
+
