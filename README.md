@@ -275,3 +275,13 @@ It was cool, especially frog flexbox and last task. But there is no frog who can
 
 ![Tired Cat](images/tired-cat.png)
 
+## DOM
+
+### JavaScript and the DOM
+
+<details>
+    <summary>Screenshot</summary>
+  
+![JS DOM Udacity](task_js_dom/js-dom-udacity.png)
+
+</details>
