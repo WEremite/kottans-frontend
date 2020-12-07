@@ -275,13 +275,22 @@ It was cool, especially frog flexbox and last task. But there is no frog who can
 
 ![Tired Cat](images/tired-cat.png)
 
-## DOM
+## 7. DOM
 
-### JavaScript and the DOM
+### 7.1 JavaScript and the DOM
 
 <details>
     <summary>Screenshot</summary>
   
 ![JS DOM Udacity](task_js_dom/js-dom-udacity.png)
+
+</details>
+
+### 7.2 Intermediate Algorithm Scripting
+
+<details>
+    <summary>Screenshot</summary>
+  
+![JS DOM Udacity](task_js_dom/Intermediate-Algorithm-Scripting-freecodecamp.png)
 
 </details>
